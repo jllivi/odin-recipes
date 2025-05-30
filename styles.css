@@ -28,9 +28,7 @@ h1 {
 .steps {
     background: rgb(222, 170, 170);
     border: 2px solid black;
-    padding: 8px;
+    padding: 8px 20px;
     box-sizing: border-box;
-    display: inline-block;
 }
-
 
