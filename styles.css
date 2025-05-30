@@ -23,7 +23,7 @@ h1 {
     background: rgb(222, 170, 170)
 }
 
-p {
+.description {
     background: rgb(222, 170, 170);
     border: 2px solid black;
     padding: 8px;
